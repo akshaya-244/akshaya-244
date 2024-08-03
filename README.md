@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**akshaya-244/akshaya-244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I'm currently studying Master's of Science in Computer Science at University of Southern California
